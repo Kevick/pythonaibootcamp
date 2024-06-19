@@ -1,15 +1,5 @@
 """
-DEPOSITO - ser possível depositar valores positivos para a conta bancaria
-apenas 1 usuario
-Armazenar todos os depósitos em uma variável e ser exibido na opção extrato
-
-SAQUE - Permitir somente 3 saques diarios com limite maximo de 500 reais por saque
-caso não tenha saldo em conta exibir mensagem de erro informando o motivo
-todos os saques deverão ser armazenados para exibir no extrato
-
-Extrato - Listar todos os depositos e saques realizados na conta. No fim da listagem deve ser exibido o saldo atual da conta.
-valores no formato R$ xxx.xx, 1500.45 = R$ 1500.45
-
+Sistema Bancário desenvolvido em Python para o bootcamp da dio!
 """
 
 menu = """
